@@ -1,5 +1,5 @@
-count = 2
-while count < 13 do
+count = 13
+while count > 3 do
   puts "I am the #{count}, I love to count!"
   count /= 2
 end
